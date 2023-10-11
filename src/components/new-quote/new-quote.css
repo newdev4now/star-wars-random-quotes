@@ -1,0 +1,17 @@
+.btn {
+  margin: 5px;
+  text-decoration: none;
+  border: solid slategray 1px;
+  border-radius: 3px;
+  box-shadow: 10px 5px 5px lightslategray;
+  text-align: center;
+  width: 30%;
+}
+
+/* ------ New Quote Button ------ */
+.btn-row #new-quote {
+  order: 2;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+}

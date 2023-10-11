@@ -1,0 +1,39 @@
+
+/* ------- QuoteBox Component Container ------- */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+#quote-box {
+  padding: 40px;
+  border-radius: 10px;
+  background: white;
+  margin-top: auto;
+  max-width: 600px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+
+/* ------ Button Row Container ------ */
+.btn-row {
+  order: 4;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background: whitesmoke;
+  color: slategray;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin: 25px 25px 25px;
+  width: 100%;
+  flex-basis: auto;
+}
+
+
+
