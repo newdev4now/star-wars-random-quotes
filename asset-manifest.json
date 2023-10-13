@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/star-wars-random-quotes/static/css/main.69dab0a0.css",
+    "main.js": "/star-wars-random-quotes/static/js/main.38278e0c.js",
+    "index.html": "/star-wars-random-quotes/index.html",
+    "main.69dab0a0.css.map": "/star-wars-random-quotes/static/css/main.69dab0a0.css.map",
+    "main.38278e0c.js.map": "/star-wars-random-quotes/static/js/main.38278e0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69dab0a0.css",
+    "static/js/main.38278e0c.js"
+  ]
+}
